@@ -33603,26 +33603,26 @@ A.EN.prototype={
 I(a){var s=null,r=$.a9h(),q=t.p
 return A.fi(s,A.e4(A.a([B.KA,B.ak,new A.Fr(B.LU,20,15,A.a([A.dA(B.b6,50,new A.c_("assets/androidstudio.png"),s),A.dA(B.b6,50,new A.c_("assets/kotlin.png"),s),A.dA(B.b6,50,new A.c_("assets/flutter.png"),s),A.dA(B.b6,50,new A.c_("assets/java.png"),s)],q),s)],q),B.R,B.y,B.B),s,s,s,r,B.d7,s,s)}}
 A.Fq.prototype={
-I(a){var s,r,q,p,o,n,m,l,k=this,j=null,i="Android App for Government Institution for reporting, recording & clock-in work securely as part of Command Centre System with feature such as Gps Tracking, Offline Reporting, Online Meeting, Live Streaming",h="Role : Main Developer (Creating application from zero & work with Front End, Backend Team) \n - Create app UI based on design/FIGMA \n - Pull & save data using available API Backend \n - Create app database system/architecture \n - Debug & fix all bug",g="Tech : Kotlin, MVVM, Coroutine, ROOM, Hilt, Retrofit, WorkManager, 3rd party libraries (Traccar, RabbitMQ, Agora, CameraView)",f="Nov 2021 - Aug 2022",e=t.w,d=a.R(e).f,c=$.a9k()
-d=d.a.a/4
-s=A.dA(j,j,B.vl,d)
-r=A.dA(j,j,B.vm,d)
-q=A.dA(j,j,B.vn,d)
-p=A.dA(j,j,B.vo,d)
-o=A.dA(j,j,B.vp,d)
+I(a1){var s,r,q,p,o,n,m,l,k=this,j=null,i="\nAn open source project. Android Client for WORX application system. Worx allows your teams to complete forms and collect data anywhere, anytime. Quickly retrieve accurate data, flag critical issues, reduce data entry errors, validate answers, add conditional logic, and more. ",h="Project Scope : Main Developer (Creating application from zero & work with Front End, Backend Team) \n - Create app UI based on design/FIGMA \n - Pull & save data using available API Backend \n - Create app database system/architecture \n - Debug & fix all bug",g="Tech : Kotlin, Jetpack Compose, MVVM, Coroutine, ROOM, Hilt, Retrofit, WorkManager, 3rd party libraries (Accompanist, Coil, AndroidUpload)",f="Aug 2022 - OnGoing",e="\nAndroid App for Government Institution for reporting, recording & clock-in work securely as part of Command Centre System with feature such as Gps Tracking, Offline Reporting, Online Meeting, Live Streaming",d="Tech : Kotlin, MVVM, Coroutine, ROOM, Hilt, Retrofit, WorkManager, 3rd party libraries (Traccar, RabbitMQ, Agora, CameraView)",c="Nov 2021 - Aug 2022",b=t.w,a=a1.R(b).f,a0=$.a9k()
+a=a.a.a/4
+s=A.dA(j,j,B.vl,a)
+r=A.dA(j,j,B.vm,a)
+q=A.dA(j,j,B.vn,a)
+p=A.dA(j,j,B.vo,a)
+o=A.dA(j,j,B.vp,a)
 n=t.p
 m=A.e4(A.a([A.fE(A.a([s,r],n),B.R,B.y,B.B),A.fE(A.a([q,p],n),B.R,B.y,B.B),o],n),B.aG,B.y,B.B)
-l=a.R(e).f
+l=a1.R(b).f
 l=l.gia(l)===B.dN?A.qg(new A.bA(B.cd,A.e4(A.a([A.dQ(A.fE(A.a([A.dQ(s,1),A.dQ(r,1),A.dQ(q,1),A.dQ(p,1),A.dQ(o,1)],n),B.R,B.y,B.B),1),B.dO,k.jF(i,h,g,f)],n),B.aG,B.y,B.bK),j)):A.qg(new A.bA(B.cd,A.e4(A.a([m,B.ak,k.jF(i,h,g,f)],n),B.R,B.y,B.B),j))
-s=A.dA(j,j,B.vq,d)
-r=A.dA(j,j,B.vr,d)
-q=A.dA(j,j,B.vs,d)
-p=A.dA(j,j,B.vt,d)
-o=A.dA(j,j,B.vu,d)
+s=A.dA(j,j,B.vq,a)
+r=A.dA(j,j,B.vr,a)
+q=A.dA(j,j,B.vs,a)
+p=A.dA(j,j,B.vt,a)
+o=A.dA(j,j,B.vu,a)
 m=A.e4(A.a([A.fE(A.a([s,r],n),B.R,B.y,B.B),A.fE(A.a([q,p],n),B.R,B.y,B.B),o],n),B.aG,B.y,B.B)
-e=a.R(e).f
-e=e.gia(e)===B.dN?A.qg(new A.bA(B.cd,A.e4(A.a([A.dQ(A.fE(A.a([A.dQ(s,1),A.dQ(r,1),A.dQ(q,1),A.dQ(p,1),A.dQ(o,1)],n),B.R,B.y,B.B),1),B.dO,k.jF(i,h,g,f)],n),B.aG,B.y,B.bK),j)):A.qg(new A.bA(B.cd,A.e4(A.a([m,B.ak,k.jF(i,h,g,f)],n),B.R,B.y,B.B),j))
-return A.fi(j,A.e4(A.a([B.KD,B.ak,l,B.ak,e,B.ak,k.u3(a,A.dA(j,j,new A.c_("assets/projects/p3.ss1"),d),"Credit card app (for specific country) that will display all card transaction.","Role : Main Developer (Fixing Bug & Add new feature) \n - Connect app with data source/backend \n - Create carousel/stack view with animation \n - Custom view for UI","Tech : Kotlin, MVVM, Animation, Custom View","September 2021 - October 2021"),B.ak,k.u3(a,A.dA(j,j,new A.c_("assets/projects/p2.ss1"),d),"Productivity app that will lock device based on desired time and/or location perimeter.","Role : Main Developer (Fixing Bug & Add new feature)","Tech : Kotlin, MVVM, Google Map API, Google Play Billing","March 2020 - June 2020"),B.ak,k.u3(a,A.dA(j,j,new A.c_("assets/projects/P1.SS1"),d),"All in one app for GPS , Maps, Navigation, Directions, Street View, Satellite view. Live maps street view is full GPS app to show the navigations, nearby and distances. View live maps from streetview, 3D view and satellite view. See full earth navigation and check maps. This free maps app has all list of near by such as ATM, banks, bakery, restaurants, bars, theaters and many more.","Role : Junior Android Developer","Tech : MVP Arch pattern, MVP Moxy, RxJava, Cicerone Navigation, Toothpick (Dependency Injection), Google Direction API, Glide.","Dec 2019 - March 2019")],n),B.R,B.y,B.B),j,j,j,c,B.d7,j,j)},
+b=a1.R(b).f
+b=b.gia(b)===B.dN?A.qg(new A.bA(B.cd,A.e4(A.a([A.dQ(A.fE(A.a([A.dQ(s,1),A.dQ(r,1),A.dQ(q,1),A.dQ(p,1),A.dQ(o,1)],n),B.R,B.y,B.B),1),B.dO,k.jF(e,h,d,c)],n),B.aG,B.y,B.bK),j)):A.qg(new A.bA(B.cd,A.e4(A.a([m,B.ak,k.jF(e,h,d,c)],n),B.R,B.y,B.B),j))
+return A.fi(j,A.e4(A.a([B.KD,B.ak,l,B.ak,b,B.ak,k.u3(a1,A.dA(j,j,new A.c_("assets/projects/p3.ss1"),a),"Credit card app (for specific country) that will display all card transaction.","Project Scope : Main Developer (Fixing Bug & Add new feature) \n - Connect app with data source/backend \n - Create carousel/stack view with animation \n - Custom view for UI","Tech : Kotlin, MVVM, Animation, Custom View","September 2021 - October 2021"),B.ak,k.u3(a1,A.dA(j,j,new A.c_("assets/projects/p2.ss1"),a),"Productivity app that will lock device based on desired time and/or location perimeter.","Project Scope : Main Developer (Fixing Bug & Add new feature)","Tech : Kotlin, MVVM, Google Map API, Google Play Billing","March 2020 - June 2020"),B.ak,k.u3(a1,A.dA(j,j,new A.c_("assets/projects/P1.SS1"),a),"All in one app for GPS , Maps, Navigation, Directions, Street View, Satellite view. Live maps street view is full GPS app to show the navigations, nearby and distances. View live maps from streetview, 3D view and satellite view. See full earth navigation and check maps. This free maps app has all list of near by such as ATM, banks, bakery, restaurants, bars, theaters and many more.","Project Scope : Junior Android Developer","Tech : MVP Arch pattern, MVP Moxy, RxJava, Cicerone Navigation, Toothpick (Dependency Injection), Google Direction API, Glide.","Dec 2019 - March 2019")],n),B.R,B.y,B.B),j,j,j,a0,B.d7,j,j)},
 u3(a,b,c,d,e,f){var s=a.R(t.w).f,r=t.p
 return s.gia(s)===B.dN?A.qg(new A.bA(new A.ai(20,20,20,20),A.fE(A.a([b,B.dO,A.dQ(this.jF(c,d,e,f),1)],r),B.aG,B.y,B.B),null)):A.qg(new A.bA(new A.ai(20,20,20,20),A.e4(A.a([b,B.ak,this.jF(c,d,e,f)],r),B.R,B.y,B.B),null))},
 jF(a,b,c,d){var s=null
